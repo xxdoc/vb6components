@@ -53,4 +53,4 @@ TEditGrid则是表格编辑控件，使得可以快速地编辑内容进行增�
 ![image](https://github.com/bzmework/vb6components/blob/master/20200320195940.jpg)     
 
 如果您还在用vb6做些小项目，那么您已经得到了最好的东西甚至是别人心血的东西。   
-QQ讨论群：948127686
+QQ讨论群：948127686   
