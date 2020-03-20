@@ -45,9 +45,12 @@ TSkin
    
 最后保留2个控件作为遗憾，因为人往往是这样的，轻易得到的东西不知道珍惜，甚至轻贱，嗤之以鼻，不屑一顾，   
 做为遗憾只做介绍和配图：   
-TPopupList是一个弹出式列表，可以根据拼音首字和汉族进行快速查找，有非常好的体验；   
+TPopupList是一个弹出式列表，可以根据拼音首字和汉字进行快速查找，有非常好的体验；   
 TEditGrid则是表格编辑控件，使得可以快速地编辑内容进行增删改查。   
 这两个控件都是基于VsFlexGrid控件进行的应用开发，当然有了上面的组件你也可以自行封装，参见TListGrid的源码。   
 如下图所示：   
 ![image](https://github.com/bzmework/vb6components/blob/master/20200320195402.jpg)      
 ![image](https://github.com/bzmework/vb6components/blob/master/20200320195940.jpg)     
+
+如果您还在用vb6做些小项目，那么您已经得到了最好的东西甚至是别人心血的东西。   
+QQ讨论群：948127686
